@@ -1,2 +1,2 @@
-class desktop():
+class desktop:
     pass
